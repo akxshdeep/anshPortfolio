@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/anshPortfolio/static/css/main.cda2da0b.css",
+    "main.js": "/anshPortfolio/static/js/main.f17a528e.js",
+    "static/js/415.4d6acbeb.chunk.js": "/anshPortfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/anshPortfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/avatar.png": "/anshPortfolio/static/media/avatar.30e2057f5a1a093735e8.png",
+    "static/media/anshCV.pdf": "/anshPortfolio/static/media/anshCV.aae24ddfb0316d3d3f08.pdf",
+    "static/media/main.jpg": "/anshPortfolio/static/media/main.5c8d680b3f5f6ae26121.jpg",
+    "static/media/emotion.jpg": "/anshPortfolio/static/media/emotion.30c248c0c5ee1338c06a.jpg",
+    "static/media/chatify.jpg": "/anshPortfolio/static/media/chatify.a1bc6700fd530725fe01.jpg",
+    "static/media/about.jpg": "/anshPortfolio/static/media/about.f25e1d4a668ef0f271a9.jpg",
+    "static/media/leaf.jpg": "/anshPortfolio/static/media/leaf.7b2fff6cab0d3cc7fc3f.jpg",
+    "static/media/editor.jpg": "/anshPortfolio/static/media/editor.8af09af4d19f22138e8f.jpg",
+    "static/media/acting.jpg": "/anshPortfolio/static/media/acting.38ddc0cfac42f205ee9f.jpg",
+    "static/media/bloh.jpg": "/anshPortfolio/static/media/bloh.4f6b325022a95000c81d.jpg",
+    "static/media/home-bg.jpg": "/anshPortfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/anshPortfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/anshPortfolio/index.html",
+    "main.cda2da0b.css.map": "/anshPortfolio/static/css/main.cda2da0b.css.map",
+    "main.f17a528e.js.map": "/anshPortfolio/static/js/main.f17a528e.js.map",
+    "415.4d6acbeb.chunk.js.map": "/anshPortfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/anshPortfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cda2da0b.css",
+    "static/js/main.f17a528e.js"
+  ]
+}
