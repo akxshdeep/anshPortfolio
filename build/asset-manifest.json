@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.18c476ba.css",
+    "main.js": "/static/js/main.70723eb9.js",
+    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/avatar.png": "/static/media/avatar.30e2057f5a1a093735e8.png",
+    "static/media/anshCV.pdf": "/static/media/anshCV.aae24ddfb0316d3d3f08.pdf",
+    "static/media/main.jpg": "/static/media/main.5c8d680b3f5f6ae26121.jpg",
+    "static/media/emotion.jpg": "/static/media/emotion.30c248c0c5ee1338c06a.jpg",
+    "static/media/chatify.jpg": "/static/media/chatify.a1bc6700fd530725fe01.jpg",
+    "static/media/about.jpg": "/static/media/about.f25e1d4a668ef0f271a9.jpg",
+    "static/media/leaf.jpg": "/static/media/leaf.7b2fff6cab0d3cc7fc3f.jpg",
+    "static/media/editor.jpg": "/static/media/editor.8af09af4d19f22138e8f.jpg",
+    "static/media/acting.jpg": "/static/media/acting.38ddc0cfac42f205ee9f.jpg",
+    "static/media/bloh.jpg": "/static/media/bloh.4f6b325022a95000c81d.jpg",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/index.html",
+    "main.18c476ba.css.map": "/static/css/main.18c476ba.css.map",
+    "main.70723eb9.js.map": "/static/js/main.70723eb9.js.map",
+    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18c476ba.css",
+    "static/js/main.70723eb9.js"
+  ]
+}
